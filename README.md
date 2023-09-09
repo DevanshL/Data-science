@@ -1,9 +1,9 @@
 # Machine-Learning
 Projects based different model predictions.
 
-# IPL First Innings Score Prediction
-# Crop-recommendation
-
+* IPL First Innings Score Prediction
+* Crop-recommendation
+* Heart-disease-classification
 
 
 ## Features
