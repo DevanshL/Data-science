@@ -4,7 +4,12 @@ Projects based different model predictions.
 * IPL First Innings Score Prediction
 * Crop-recommendation
 * Heart-disease-classification
-
+* Iris-Flower Classification
+* Message Spam Classification
+* Movie Rating
+* Sales [Advertising]
+* Titanic
+* Unemployment Analysis
 
 ## Features
 
@@ -26,6 +31,10 @@ Projects based different model predictions.
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+## Source
+  Available at [https://www.kaggle.com/](Kaggle)
+
 
 ## Usage
 
