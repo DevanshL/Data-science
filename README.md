@@ -33,7 +33,7 @@ Projects based different model predictions.
 - Jupyter Notebook
 
 ## Source
-  Available at [Kaggle]([Kaggle](https://www.kaggle.com/))
+  Available at [Kaggle](https://www.kaggle.com/)
 
 
 ## Usage
