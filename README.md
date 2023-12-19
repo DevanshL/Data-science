@@ -21,6 +21,8 @@ Projects based different model predictions.
 
 - Python
 - Scikit-Learn
+- Numpy
+- Seaborn
 - Pandas
 - Matplotlib
 - Jupyter Notebook
@@ -34,13 +36,8 @@ To use this project for predicting IPL first innings scores:
 3. Run the Jupyter notebooks in the `notebooks` directory to perform data analysis, model training, and prediction.
 4. Modify the model or dataset as needed for your specific requirements.
 
-## Contributors
-
-- [Devansh L](https://github.com/DevanshL)
-
 ## Acknowledgments
 
-- IPL data providers (mention their sources)
 - Open-source libraries and tools used in the project
 
 Feel free to contribute, report issues, or suggest improvements to enhance the above projects.
