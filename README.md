@@ -1,4 +1,4 @@
-# Machine-Learning
+# Data-Science Projects
 Projects based different model predictions.
 
 * IPL First Innings Score Prediction
@@ -10,6 +10,7 @@ Projects based different model predictions.
 * Sales [Advertising]
 * Titanic
 * Unemployment Analysis
+* Flight Fare Prediction
 
 ## Features
 
